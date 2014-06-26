@@ -1,4 +1,4 @@
 repo1
 =====
 
-first repo
+first repozitor
